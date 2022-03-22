@@ -3,7 +3,7 @@
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-noahleecampbell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noahleecampbell@gmail.com)](mailto:noahleecampbell@gmail.com)
 
 ```javascript
 const noah = {
