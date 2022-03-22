@@ -2,7 +2,8 @@
   <img src="images/NoahCampbellHeader.gif" width="400" height="auto" alt="animated" />
 </p>
 
-[![Linkedin: noah campbell](https://img.shields.io/badge/noah-l-campbell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noah-l-campbell/)]
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 ```javascript
 const noah = {
