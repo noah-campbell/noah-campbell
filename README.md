@@ -8,9 +8,8 @@
 ```javascript
 const noah = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, HTML, CSS],
+  tools: [React, Angular, Redux, Node, Bootstrap, Chakra UI, SASS, Firebase],
   architecture: ["atom design", "event-driven", "design system pattern"],
-  challenge: ""
 }
 ```
