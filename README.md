@@ -10,6 +10,7 @@ const noah = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Angular, Redux, Node, Bootstrap, Chakra, Firebase],
-  architecture: ["atom design", "event-driven", "design system pattern"],
+  architecture: ["atom design", "event-driven", "design system pattern", "single page animation"],
+  askMeAbout: ["web dev", "tech", "coffee roasting", "surfing", "rock climbing"]
 }
 ```
