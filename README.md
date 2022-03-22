@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NoahCampbellHeader.gif" alt="animated" />
+  <img src="noah-campbell/NoahCampbellHeader.gif" alt="animated" />
 </p>
 
 
