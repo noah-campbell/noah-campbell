@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color:powderblue;">
   <img src="images/NoahCampbellHeader.gif" width="350" height="auto" alt="animated" />
 </p>
 
