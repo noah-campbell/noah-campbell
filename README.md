@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/NoahCampbellHeader.gif" style="border-radius: 15px" width="350" height="auto" alt="animated" />
+  <img src="images/NoahCampbellHeader.gif" width="350" height="auto" alt="animated" />
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-NoahlCampbell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noah-l-campbell/)](https://www.linkedin.com/in/noah-l-campbell/)
