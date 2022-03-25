@@ -1,7 +1,8 @@
-<p align="center" style="background-color:powderblue;">
-  <img src="images/NoahCampbellHeader.gif" width="350" height="auto" alt="animated" />
-</p>
-
+<span style="background-color: red">
+  <p align="center">
+    <img src="images/NoahCampbellHeader.gif" width="350" height="auto" alt="animated" />
+  </p>
+</span>
 [![Linkedin Badge](https://img.shields.io/badge/-NoahlCampbell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noah-l-campbell/)](https://www.linkedin.com/in/noah-l-campbell/)
 [![Gmail Badge](https://img.shields.io/badge/-noahleecampbell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noahleecampbell@gmail.com)](mailto:noahleecampbell@gmail.com)
 
